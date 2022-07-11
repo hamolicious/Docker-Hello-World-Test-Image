@@ -1,0 +1,23 @@
+{
+  "name": "dockerhelloworldwebservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamolicious/Docker-Hello-World-Test-Image.git"
+  },
+  "author": "hamolicious <hamolicious@protonmail.com> (https://github.com/hamolicious)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/hamolicious/Docker-Hello-World-Test-Image/issues"
+  },
+  "homepage": "https://github.com/hamolicious/Docker-Hello-World-Test-Image#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
